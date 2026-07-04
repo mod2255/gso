@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 # ============ تكوين البوت ============
 TELEGRAM_CONFIG = {
-    "TOKEN": "8618971021:AAG-gCTkVWRTQoKftCrzJ2_vGKzdp-aQSw0",
+    "TOKEN": "8618971021:AAHNf7o2muoU1ZiFx7EzZDvq950hKn30ELk",
     "CHAT_ID": "7822155315",
     "API_URL": "https://api.telegram.org/bot"
 }
